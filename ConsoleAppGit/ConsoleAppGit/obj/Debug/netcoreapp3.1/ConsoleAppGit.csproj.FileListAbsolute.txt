@@ -1,0 +1,13 @@
+C:\Users\shanc\source\repos\sh-instructor\SD1042020\ConsoleAppGit\ConsoleAppGit\bin\Debug\netcoreapp3.1\ConsoleAppGit.exe
+C:\Users\shanc\source\repos\sh-instructor\SD1042020\ConsoleAppGit\ConsoleAppGit\bin\Debug\netcoreapp3.1\ConsoleAppGit.deps.json
+C:\Users\shanc\source\repos\sh-instructor\SD1042020\ConsoleAppGit\ConsoleAppGit\bin\Debug\netcoreapp3.1\ConsoleAppGit.runtimeconfig.json
+C:\Users\shanc\source\repos\sh-instructor\SD1042020\ConsoleAppGit\ConsoleAppGit\bin\Debug\netcoreapp3.1\ConsoleAppGit.runtimeconfig.dev.json
+C:\Users\shanc\source\repos\sh-instructor\SD1042020\ConsoleAppGit\ConsoleAppGit\bin\Debug\netcoreapp3.1\ConsoleAppGit.dll
+C:\Users\shanc\source\repos\sh-instructor\SD1042020\ConsoleAppGit\ConsoleAppGit\bin\Debug\netcoreapp3.1\ConsoleAppGit.pdb
+C:\Users\shanc\source\repos\sh-instructor\SD1042020\ConsoleAppGit\ConsoleAppGit\obj\Debug\netcoreapp3.1\ConsoleAppGit.csprojAssemblyReference.cache
+C:\Users\shanc\source\repos\sh-instructor\SD1042020\ConsoleAppGit\ConsoleAppGit\obj\Debug\netcoreapp3.1\ConsoleAppGit.AssemblyInfoInputs.cache
+C:\Users\shanc\source\repos\sh-instructor\SD1042020\ConsoleAppGit\ConsoleAppGit\obj\Debug\netcoreapp3.1\ConsoleAppGit.AssemblyInfo.cs
+C:\Users\shanc\source\repos\sh-instructor\SD1042020\ConsoleAppGit\ConsoleAppGit\obj\Debug\netcoreapp3.1\ConsoleAppGit.csproj.CoreCompileInputs.cache
+C:\Users\shanc\source\repos\sh-instructor\SD1042020\ConsoleAppGit\ConsoleAppGit\obj\Debug\netcoreapp3.1\ConsoleAppGit.dll
+C:\Users\shanc\source\repos\sh-instructor\SD1042020\ConsoleAppGit\ConsoleAppGit\obj\Debug\netcoreapp3.1\ConsoleAppGit.pdb
+C:\Users\shanc\source\repos\sh-instructor\SD1042020\ConsoleAppGit\ConsoleAppGit\obj\Debug\netcoreapp3.1\ConsoleAppGit.genruntimeconfig.cache
